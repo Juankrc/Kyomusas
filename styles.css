@@ -233,7 +233,7 @@ body, h1, h2, p, ul, li, input, textarea, button {
   }
   .contact{
   background-image: url(img/2.png);
- -webkit-backface-visibility: 10%;
+
 
   }
   
@@ -398,6 +398,12 @@ body, h1, h2, p, ul, li, input, textarea, button {
   }
 }
 
+.hero h1{
+  font-size: 2rem;
+  margin-top: 120px;
+  margin-bottom: 10px;
+  color: #091018;
+  background-color:rgba(255, 255, 255, 0.5);
 
 }
 
@@ -409,3 +415,4 @@ button:hover {
     transform: scale(1.1);
 }
 
+}
